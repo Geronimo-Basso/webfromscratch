@@ -2,3 +2,10 @@ https://nateobrien.com
 https://keeponcoding.io
 https://holamundo.io/author/nicolasschurmann/
 https://juagonala.com/about/
+
+
+In 71 hours of video, this course will teach you the secrets to create the coolest WebGL websites with Three.js whether you are a beginner or an advanced developer.
+Best pages so far:
+https://bruno-simon.com (Big challenge)
+https://mattfarley.ca (minimalist and beautiful)
+https://www.hostinger.com/tutorials/web-developer-portfolio
