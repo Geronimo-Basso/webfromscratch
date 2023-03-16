@@ -16,4 +16,4 @@ Execution plan:
 - Redirect to the designated URL using CNAME
         (https://docs.github.com/es/pages/configuring-a-custom-domain-for-your-github-pages-site/managing-a-custom-domain-for-your-github-pages-site)
         https://stackoverflow.com/questions/30167113/redirect-github-pages-to-custom-domain
--
+        https://stackoverflow.com/questions/30167113/redirect-github-pages-to-custom-domain
