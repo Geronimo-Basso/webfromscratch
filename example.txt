@@ -9,3 +9,11 @@ Best pages so far:
 https://bruno-simon.com (Big challenge)
 https://mattfarley.ca (minimalist and beautiful)
 https://www.hostinger.com/tutorials/web-developer-portfolio
+
+
+Execution plan:
+- Develop in GitHub pages.
+- Redirect to the designated URL using CNAME
+        (https://docs.github.com/es/pages/configuring-a-custom-domain-for-your-github-pages-site/managing-a-custom-domain-for-your-github-pages-site)
+        https://stackoverflow.com/questions/30167113/redirect-github-pages-to-custom-domain
+-
